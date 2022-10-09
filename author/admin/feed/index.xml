@@ -12,7 +12,7 @@
 	<atom:link href="https://andykalo.github.io/christnovic-sarl/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://andykalo.github.io/christnovic-sarl</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Tue, 04 Oct 2022 08:28:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Sep 2022 10:08:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,24 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Accueil</title>
-		<link>https://andykalo.github.io/christnovic-sarl/2022/10/04/accueil/</link>
-					<comments>https://andykalo.github.io/christnovic-sarl/2022/10/04/accueil/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 08:23:36 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://andykalo.github.io/christnovic-sarl/?p=27</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://andykalo.github.io/christnovic-sarl/2022/10/04/accueil/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Bonjour tout le monde !</title>
 		<link>https://andykalo.github.io/christnovic-sarl/2022/09/27/bonjour-tout-le-monde/</link>
 					<comments>https://andykalo.github.io/christnovic-sarl/2022/09/27/bonjour-tout-le-monde/#comments</comments>
